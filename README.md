@@ -1,9 +1,5 @@
 ### Hello! 👋 Welcome to my GitHub!
 
-My name is Jeffrey Chan. I completed my Bachelors's of Software Engineering at Concordia University in Montreal, Canada. I decided to pursue studying Software Engineering when I fell in love with programming working as a student researcher. Seeing the possibilities of programming I wanted to make it a tool I use in my career to solve problems, this led me to find Data Engineering.
-
-I have spent my academic and work experience developing skills in programming Python, Java and SQL to expand the tools I have available spanning Amazon Web Services (AWS) to TensorFlow, PySpark and other Data Engineering tools.
-
 I'd love to [connect](https://www.linkedin.com/in/jeffrey-chak-him-chan/) if you share an interest in any of the topics I mentioned.
 
 All the best.
